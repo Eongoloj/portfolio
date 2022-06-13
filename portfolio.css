@@ -1,0 +1,43 @@
+
+header{
+    color: rgb(1212 11, 113);
+border: 1px;
+}
+li{
+    border: 1px double;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+   font-family: 'Times New Roman', Times, serif;
+    font-size: 1.6rem;
+    color: rgb(122, 11, 113);
+    margin: 2
+;
+    background: #ffffff;
+    text-align: 
+
+}
+a{color: rgb(122, 11, 113);
+    text-decoration: none;
+align-items:flex-start;
+}
+    img {
+        float: right;
+    }
+    
+header{
+  font-style: oblique;
+}
+
+h2{
+    background: position x 2px; ;
+}
+
+.header li{
+    display: inline-flex;
+    align-items: center;
+    padding: 0 .5rem;
+
+}
